@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Karan 👋
 
-<!--
-**karan-gitcomit/karan-gitcomit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1st year CS student learning to code from scratch — currently grinding C++ fundamentals before diving into DSA.
 
-Here are some ideas to get you started:
+## 🌱 What I'm learning
+- C++ (arrays, strings, functions, recursion)
+- Data Structures & Algorithms — coming soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+## 🎯 Goals
+- Land my first internship
+- Contribute to open source
+- Build real projects
+
+## 📌 Check out my practice
+[cpp-practice](https://github.com/karan-gitcomit/cpp-practice) — learning C++ step by step
